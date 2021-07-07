@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+  }
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.orange{
+color: orange;
+}
+p{
+    text-align: justify;
+    font-size: 5pl;
+    
+}
+.blue{
+    color: blue;
+    text-decoration: none;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange , rgb(255, 71, 38));
+    color: white;
+    padding: 7px 15px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.branding{
+    margin-left: 50px;
+}
+.login{
+    font-size: 20px;
+    color: red;
+    font-weight: 800;
+    margin-left: 60%;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.create-account{
+    color: blue;
+    text-decoration: none;
+}
+section{
+    display: flex;
+}
+.section-half{
+    width: 50%;
+    margin: 50px;
+}
+.section-half img{
+    width: 100%;
+}
+section img{
+    width: 100%;
+}
+.second-layer{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    width: 100%;
+}
+.recipies p{
+    text-align: center;
+}
+.recipies h1{
+    text-align: center;
+}
+.talli{
+    margin: 2.5%;
+    box-shadow: 5px 5px 15px rgba(128, 128, 128, 0.527);
+    border-radius: 20px;
+    padding: 12px;
+}
+.last-layer-shape{
+    margin: 5%;
+}
+.bottom-layer{
+    margin: 10%;
+}
+.bottom-single-layer{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.kala{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.center{
+    text-align: center;
+}
